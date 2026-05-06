@@ -1,4 +1,4 @@
-# 👋 Hi! Welcome to GitHub!
+# 👋 Hi! Welcome to GitHub
 
 Alright, get set for some real **GitHub action**! We're diving into a **scavenger hunt**, where you'll navigate the wilds of **branches** 🌿, uncover the secrets of **commits** 💾, and delve into the mysteries of **pull requests** and **code reviews** 🔍. Whether you're eyeing a career as a software engineer, want to contribute to open-source projects, or just love learning new skills, knowing your way around GitHub is a game-changer.
 
